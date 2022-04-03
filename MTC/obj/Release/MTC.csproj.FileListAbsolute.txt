@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\MTC\MTC\bin\Release\MTC.exe.config
+C:\Users\PC\source\repos\MTC\MTC\bin\Release\MTC.exe
+C:\Users\PC\source\repos\MTC\MTC\bin\Release\MTC.pdb
+C:\Users\PC\source\repos\MTC\MTC\obj\Release\MTC.Form1.resources
+C:\Users\PC\source\repos\MTC\MTC\obj\Release\MTC.Properties.Resources.resources
+C:\Users\PC\source\repos\MTC\MTC\obj\Release\MTC.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\MTC\MTC\obj\Release\MTC.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MTC\MTC\obj\Release\MTC.exe
+C:\Users\PC\source\repos\MTC\MTC\obj\Release\MTC.pdb

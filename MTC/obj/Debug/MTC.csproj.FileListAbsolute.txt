@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\MTC\MTC\obj\Debug\MTC.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\MTC\MTC\obj\Debug\MTC.Properties.Resources.resources
+C:\Users\PC\source\repos\MTC\MTC\obj\Debug\MTC.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\MTC\MTC\obj\Debug\MTC.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MTC\MTC\bin\Debug\MTC.exe.config
+C:\Users\PC\source\repos\MTC\MTC\bin\Debug\MTC.exe
+C:\Users\PC\source\repos\MTC\MTC\bin\Debug\MTC.pdb
+C:\Users\PC\source\repos\MTC\MTC\obj\Debug\MTC.Form1.resources
+C:\Users\PC\source\repos\MTC\MTC\obj\Debug\MTC.exe
+C:\Users\PC\source\repos\MTC\MTC\obj\Debug\MTC.pdb
+C:\Users\PC\source\repos\MTC\MTC\obj\Debug\MTC.Form2.resources
